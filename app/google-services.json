@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "530987726085",
+    "project_id": "grauateproject",
+    "storage_bucket": "grauateproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:530987726085:android:ecd138eefb7d9cff8fb36c",
+        "android_client_info": {
+          "package_name": "tw.edu.pu.s1088123.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "530987726085-j6osjbgg3gjpqi3oev4m2s86b88e3u38.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhRXFsTT-xAkyEnM0tthp0FjRnfzWMFUk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "530987726085-j6osjbgg3gjpqi3oev4m2s86b88e3u38.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:530987726085:android:5ffc1f54e6e25d088fb36c",
+        "android_client_info": {
+          "package_name": "tw.edu.pu.s1088123.personal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "530987726085-j6osjbgg3gjpqi3oev4m2s86b88e3u38.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhRXFsTT-xAkyEnM0tthp0FjRnfzWMFUk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "530987726085-j6osjbgg3gjpqi3oev4m2s86b88e3u38.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
